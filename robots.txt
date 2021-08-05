@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://guilty-gear-strive-mods.herokuapp.com/host-https-www.dualshockers.com/sitemap.xml
+Sitemap: https://guilty-gear-strive-mods.herokuapp.com/sitemap.xml
